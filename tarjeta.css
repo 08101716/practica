@@ -1,0 +1,74 @@
+table{
+    width: 25%;
+    background-color: rgb(34, 76, 113);
+    border-radius: 25px;
+    color: white;
+}
+
+img{
+    width: 175px;
+    height: 200px;
+    border: solid 10px;
+    border-color: white;
+    border-radius: 500px;  
+}
+
+
+#regresar{
+    background-color: rgb(34, 76, 113);
+    border:none;
+    border-radius: 200px;
+    height: 50px;
+    color: white;
+}
+
+#corazon{
+    background-color: rgb(34, 76, 113);
+    border:none;
+    border-radius: 200px;
+    height: 50px;
+    color: white;
+}
+#puntos{
+    background-color: rgb(34, 76, 113);
+    border:none;
+    border-radius: 200px;
+    height: 50px;
+    color: white;
+}
+#sigueme{
+    border-radius: 20px;
+    border: none;
+    background-color: blueviolet;
+    height: 50px;
+    width: 75px;
+    color: white;
+}
+#insta{
+    border-radius: 200px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    background-color: crimson;
+    color: white;
+}
+#fb{
+    border-radius: 200px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    background-color: blue;
+    color: white; 
+}
+#twit{
+    border-radius: 200px;
+    height: 50px;
+    width: 50px;
+    border:none;
+    background-color: darkcyan;
+    color: white;
+}
+i{
+    color: white;
+}
+
